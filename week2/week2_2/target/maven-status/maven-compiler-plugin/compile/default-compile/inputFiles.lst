@@ -1,0 +1,9 @@
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/domain/UnitFault.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/domain/UnitInfo.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/service/impl/LocationServiceImpl.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/domain/LocationRepository.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/service/LocationService.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/FleetLocationServiceApplication.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/domain/FaultCode.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/rest/FleetBulkUploadRestController.java
+/home/parallels/workspace/uber/week2_2/src/main/java/com/star/spring/uber/domain/Location.java
